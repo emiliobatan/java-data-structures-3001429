@@ -6,6 +6,7 @@ public class ArrayExamples {
 
     String[] weekdays = new String[7];
     System.out.println(Arrays.toString(weekdays));
+    // Testing
 
     weekdays[0] = "Monday";
     System.out.println(Arrays.toString(weekdays));
